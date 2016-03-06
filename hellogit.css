@@ -29,7 +29,7 @@ section h3 {
 	color: #444;
 }
 /* Header */
-header, footer {
+header, footer, .sep {
     background: url('images/separateur.png') repeat-x bottom;
 }
 #titre {
